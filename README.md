@@ -19,3 +19,4 @@ Sum[i] = A[i] ^ B[i] (Bitwise XOR)
 Carry[i] = A[i] & B[i] (Bitwise AND)
 In the provided Verilog code, this is implemented efficiently using vector operations on the 4-bit inputs A and B.
 
+Playground link : https://edaplayground.com/x/bfZq
